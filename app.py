@@ -60,5 +60,5 @@ def main():
             st.dataframe(filtered_data)
  
 # Run the app
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
